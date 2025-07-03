@@ -21,6 +21,7 @@ The scrapped datas are stored in Mongodb
 Receive responses in a conversational format
 
 **💡 Features**
+
 🔍 Product search using a natural language chatbot
 
 🛒 Price and stock comparison from BigBasket and Zepto
@@ -34,6 +35,7 @@ Receive responses in a conversational format
 🔄 Real-time or regularly updated scraping
 
 **🛠️ Technologies Used**
+
 Python
 
 Selenium (for web scraping)
@@ -43,6 +45,7 @@ Flask(for chatbot)
 Backend(Mongodb)
 
 **🗃️ Data Sources**
+
 BigBasket
 
 Zepto
@@ -50,6 +53,7 @@ Zepto
 (Scraping follows ethical practices and respects robots.txt of each site. For demo purposes only.)
 
 **🚀 How It Works**
+
 The user interacts with the chatbot via console or web interface
 
 A query like: "Compare price of Aashirvaad Atta" is entered
@@ -69,6 +73,7 @@ Quantity / Pack size
 Bot gives a final suggestion: "Cheapest price for Aashirvaad Atta is on Zepto at ₹210"
 
 **✅ Advantages**
+
 No need to manually visit each platform – Compare prices instantly in one place
 
 Saves time and effort for users looking for the best grocery deals
